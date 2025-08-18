@@ -1,0 +1,15 @@
+lake,date,tif,temp,mode,value,decision,valid_frac,n_valid
+Amatitlan,2025-01-13,cianobacteria_amatitlan-2025-01-13.tif,24.44,chl,26.132484436035156,present,1.0,9
+Amatitlan,2025-01-18,cianobacteria_amatitlan-2025-01-18.tif,24.44,chl,16.201013565063477,present,1.0,9
+Amatitlan,2025-02-07,cianobacteria_amatitlan-2025-02-07.tif,25.55,chl,18.775217056274414,present,1.0,9
+Amatitlan,2025-03-04,cianobacteria_amatitlan-2025-03-04.tif,26.66,chl,42.959110260009766,present,1.0,9
+Amatitlan,2025-03-19,cianobacteria_amatitlan-2025-03-19.tif,26.66,chl,92.07861328125,present,1.0,9
+Amatitlan,2025-03-24,cianobacteria_amatitlan-2025-03-24.tif,26.66,chl,55.438865661621094,present,1.0,9
+Amatitlan,2025-04-13,cianobacteria_amatitlan-2025-04-13.tif,27.22,chl,4.867734432220459,nodata,0.3333333333333333,3
+Amatitlan,2025-04-15,cianobacteria_amatitlan-2025-04-15.tif,27.22,chl,5.314480781555176,nodata,0.1111111111111111,1
+Amatitlan,2025-04-18,cianobacteria_amatitlan-2025-04-18.tif,27.22,chl,,nodata,0.0,0
+Amatitlan,2025-06-14,cianobacteria_amatitlan-2025-06-14.tif,25.0,chl,5.351838111877441,uncertain,1.0,9
+Amatitlan,2025-07-17,cianobacteria_amatitlan-2025-07-17.tif,25.0,chl,13.440033912658691,present,0.7777777777777778,7
+Amatitlan,2025-07-22,cianobacteria_amatitlan-2025-07-22.tif,25.0,chl,9.272228240966797,uncertain,1.0,9
+Amatitlan,2025-08-01,cianobacteria_amatitlan-2025-08-01.tif,25.0,chl,,nodata,0.0,0
+Amatitlan,2025-08-13,cianobacteria_amatitlan-2025-08-13.tif,25.0,chl,12.850513458251953,present,1.0,9
